@@ -2,7 +2,7 @@
 The evolving, loosely-specified, seminal list of things I plan to make, am making, or will never make because they're ridiculous.
 In no order.
 
-## Doors + Bash + Suicide-OS (Python/Shell/C?)
+## Doors + BASH + Suicide-OS (Python/Shell/C?)
 It's like [Doors](https://github.com/diemastermonkey/doors), except instead of navigating a procgen map, you're navigating your system directories, files, processes, etc - and the environments, NPCs, items, and events are procgen'd from the properties of those things. 
 
 It should look and act like just using Linux, except fantasy version. Maybe hacker themed. 
