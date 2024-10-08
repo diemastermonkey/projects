@@ -1,6 +1,5 @@
 # projects
 The Evolving, loosely-specified, seminal list of things I plan to make, am making, or will never make because they're ridiculous.
-
 In no order.
 
 ## Doors + Bash + Suicide-OS (Python/Shell/C?)
