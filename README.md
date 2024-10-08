@@ -12,7 +12,7 @@ Also some Suicide-OS in there too, so that typos are fatal.
 ## CTF Scene Zine (PDF)
 A simple digital zine devoted *only* to the CTF scene itself, at a meta level. Less about the writeups and more about the movers and shakers, competition results, events, trends in the scene, and gossip. Maybe a few writeups. And anonymous letters. 
 
-Keep it short, obscure, and snarky.
+Keep it short, obscure, and snarky. It should read like the #memes channel of a live CTF.
 
 ## Space Pirate Radio (Android/JS prototype)
 Actually a variation of my secret "Entroscope" app for Android. Using the same engine, but the navigational data used are the sky coordinates pointed *at* by the player (as opposed to their geolocation). Users will 'tune in' to broadcasts 'coming from' specific areas of the sky, which will rotate in and out of range as the earth rotates and their view of the stars changes. 
