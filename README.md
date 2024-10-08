@@ -44,4 +44,14 @@ This is my weird scripting language that acts kinda like assembler, from PalmOS.
 
 It was cool and I want to reincarnate it as a Javascript library or something else. 
 
+# Interactive Magazine
+Yes, I've been talking about this for years and no, it's not The Internet - it's different. 
+
+Basically I think content should be more interactive. If I'm given a statistic, I want hover over it and have immediate access to source materials, references, tables, calculators appropriate to working with that data, etc. If an article mentions a famous writer, I want to hover over that name and get rabbit holes to everything I am most likely to be wondering about that name, that made me want to hover over it. NO table of data should EVER be presented in any article without accompanying, built-in tools for re-arranging it, sorting it, visualizing it, comparing it to data from other sources, etc. 
+
+I realize this is a little bit Wolfram-type territory, and I think that's why it's Not A Thing yet; Everyone wants you to come 'do this in their thing', when it should just be in the browser and content already.
+
+Maybe this is Browser Plugin territory, or maybe it has to be an App.  This is probably the most ambitious idea on this list.
+
+
 
