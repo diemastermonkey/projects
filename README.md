@@ -17,11 +17,16 @@ Keep it short, obscure, and snarky. It should read like the #memes channel of a 
 ## Space Pirate Radio (Android/JS prototype)
 Actually a variation of my secret "Entroscope" app for Android. Using the same engine, but the navigational data used are the sky coordinates pointed *at* by the player (as opposed to their geolocation). Users will 'tune in' to broadcasts 'coming from' specific areas of the sky, which will rotate in and out of range as the earth rotates and their view of the stars changes. 
 
-In other words, it's a radio for tuning-into transmissions from space. 
+In other words, a radio for tuning-into transmissions from space. 
 
 The transmissions will be a mix of procgen'd alien 'language', 'music', advertisements - everything you expect from a radio. And of course approprately strange static between bands. Some tunings can result in just odd or even pleasing 'white/brown/pink noise' effects.
 
 Radio shows should also follow procgen'd schedules, like the NPCs in 'Entroscope'.
+
+## Death Clock (Javascript?)
+No, not the band. A simulated 'real-time' representiation of 'all the people dying right now and from what'. I've envisioned various ways of presenting it, but one simple example is of bodies falling from the top of the screen onto growing piles, each of which represents a death from a particular cause. This is easily calculated based on the top causes of death to arrive at "how many die from X per second". I think it will be an interesting way of visualizing where human priorities should be, and of the global state of human survivability. It should also be able to group by region or level of industrialization, because causes of death vary greatly among pre- and post-industrialized nations.
+
+Actually I have a working prototype nearly ready for release.
 
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
@@ -43,7 +48,7 @@ This is my weird scripting language that acts kinda like assembler, from PalmOS.
 
 It was cool and I want to reincarnate it as a Javascript library or something else. 
 
-# Interactive Magazine
+## Interactive Magazine
 Yes, I've been talking about this for years and no, it's not The Internet - it's different. 
 
 Basically I think content should be more interactive. If I'm given a statistic, I want hover over it and have immediate access to source materials, references, tables, calculators appropriate to working with that data, etc. If an article mentions a famous writer, I want to hover over that name and get rabbit holes to everything I am most likely to be wondering about that name, that made me want to hover over it. NO table of data should EVER be presented in any article without accompanying, built-in tools for re-arranging it, sorting it, visualizing it, comparing it to data from other sources, etc. 
