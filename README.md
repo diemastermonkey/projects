@@ -28,6 +28,12 @@ No, not the band. A simulated 'real-time' representiation of 'all the people dyi
 
 Actually I have a working prototype nearly ready for release.
 
+## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
+This is already [well underway](https://codepen.io/Unhacker/full/VwowxWL) over on [my CodePen](https://codepen.io/Unhacker). 
+Like 'Doors', but instead of exploring a maze you're exploring a local area code of phone numbers, complete with DTMF dialing, etc.
+Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access, take over the world! 
+
+
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
 
