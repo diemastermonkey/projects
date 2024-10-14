@@ -5,9 +5,11 @@ In no order.
 ## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
 This is already [well underway](https://codepen.io/Unhacker/full/VwowxWL) over on [my CodePen](https://codepen.io/Unhacker). 
 
-It's like [Doors](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers. The user interface is a phone, complete with DTMF dialing and old-school phreaking features. Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, acquire mods, gain access - take over the world! 
+It's like [Doors](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers. The user interface is a phone, complete with DTMF dialing and old-school phreaking features. 
 
-I'm definitely going to wrap this and get it onto Android for the Play store.
+Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, acquire mods, gain access - take over the world! 
+
+Ultimately, I will wrap this and get it onto Android for the Play store.
 
 ## CTF Scene Zine (PDF)
 A simple digital zine devoted *only* to the CTF scene itself, at a meta level. Less about the writeups and more about the movers and shakers, competition results, events, trends in the scene, and gossip. Maybe a few writeups. And anonymous letters. 
