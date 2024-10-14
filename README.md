@@ -33,6 +33,7 @@ This is already [well underway](https://codepen.io/Unhacker/full/VwowxWL) over o
 Like 'Doors', but instead of exploring a maze you're exploring a local area code of phone numbers, complete with DTMF dialing, etc.
 Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access, take over the world! 
 
+I'm definitely going to wrap this and get it onto Android for the Play store.
 
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
