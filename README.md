@@ -5,7 +5,7 @@ In no order.
 ## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
 This is already [well underway](https://codepen.io/Unhacker/full/VwowxWL) over on [my CodePen](https://codepen.io/Unhacker). 
 
-It's like ['Doors'](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers and the user interface is a phone complete with DTMF dialing, etc. Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access - take over the world! 
+It's like [Doors](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers and the user interface is a phone complete with DTMF dialing, etc. Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access - take over the world! 
 
 I'm definitely going to wrap this and get it onto Android for the Play store.
 
