@@ -4,8 +4,7 @@ In no order.
 
 ## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
 This is already [well underway](https://codepen.io/Unhacker/full/VwowxWL) over on [my CodePen](https://codepen.io/Unhacker). 
-Like 'Doors', but instead of exploring a maze you're exploring a local area code of phone numbers, complete with DTMF dialing, etc.
-Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access, take over the world! 
+Like ['Doors'](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers and the user interface is a phone complete with DTMF dialing, etc. Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect clues, solve puzzles, gain access - take over the world! 
 
 I'm definitely going to wrap this and get it onto Android for the Play store.
 
@@ -29,7 +28,7 @@ No, not the band. A simulated 'real-time' representiation of 'all the people dyi
 I have a working prototype nearly ready for release.
 
 ## BrawlOS: Doors + Bash + Suicide-OS (Python/Shell/C?)
-It's like [Doors](https://github.com/diemastermonkey/doors), except instead of navigating a procgen map, you're navigating your system directories, files, processes, etc - and the environments, NPCs, items, and events are procgen'd from the properties of those things. 
+Another variant of [Doors](https://github.com/diemastermonkey/doors), except instead of navigating a procgen map, you're navigating your system directories, files, processes, etc - and the environments, NPCs, items, and events are procgen'd from the properties of those things. 
 
 It should look and act like just using Linux, except fantasy version. Maybe hacker themed. 
 
