@@ -3,7 +3,9 @@ The evolving, loosely-specified, seminal list of things I plan to make, am makin
 In no order.
 
 ## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
-This is already well underway. You can try it at [my CodePen](https://codepen.io/Unhacker/full/VwowxWL). The whole thing will be documented here on GitHub at [diemastermonkey/dial-o-tron](https://github.com/diemastermonkey/dial-o-tron)
+This is already well underway! You can try it at [my CodePen](https://codepen.io/Unhacker/full/VwowxWL). 
+
+The whole thing will be documented here on GitHub at [diemastermonkey/dial-o-tron](https://github.com/diemastermonkey/dial-o-tron)
 
 It's like [Doors](https://github.com/diemastermonkey/doors), but instead of a maze it's a local area code full of phone numbers. The user interface is a phone, complete with DTMF dialing and old-school phreaking features.
 
