@@ -39,6 +39,12 @@ It should look and act like just using Linux, except fantasy version. Maybe hack
 
 Also some Suicide-OS in there too, so that typos are fatal. 
 
+## Middleverse (Raspberry Pi, C/Python, Javascript)
+A Raspberry Pi represents any detected Bluetooth device as an object or character in animated re-interpretations of reality, using procedural generation to produce consistent 'translations'.
+
+Basically, this: 
+![Middleverse Diagram](gad_rpi_middleverse_01.png)
+
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
 
