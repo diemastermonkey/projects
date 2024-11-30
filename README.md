@@ -42,7 +42,6 @@ Also some Suicide-OS in there too, so that typos are fatal.
 ## Middleverse (Raspberry Pi, C/Python, Javascript)
 A Raspberry Pi represents any detected Bluetooth device as an object or character in animated re-interpretations of reality, using procedural generation to produce consistent 'translations'.
 
-Basically, this: 
 ![Middleverse Diagram](gad_rpi_middleverse_01.png)
 
 ## Tubehose (Javascript/YouTube API)
