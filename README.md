@@ -30,7 +30,8 @@ Radio shows should also follow procgen'd schedules, like the NPCs in 'Entroscope
 ## Death Clock (Javascript?)
 No, not the band. A simulated 'real-time' representiation of 'all the people dying right now and from what'. I've envisioned various ways of presenting it, but one simple example is of bodies falling from the top of the screen onto growing piles, each of which represents a death from a particular cause. This is easily calculated based on the top causes of death to arrive at "how many die from X per second". I think it will be an interesting way of visualizing where human priorities should be, and of the global state of human survivability. It should also be able to group by region or level of industrialization, because causes of death vary greatly among pre- and post-industrialized nations.
 
-I have a working prototype nearly ready for release.
+See a working prototype over [on CodePen](https://codepen.io/Unhacker/full/ZEgweWV)
+
 
 ## BrawlOS: Doors + Bash + Suicide-OS (Python/Shell/C?)
 Another variant of [Doors](https://github.com/diemastermonkey/doors), except instead of navigating a procgen map, you're navigating your system directories, files, processes, etc - and the environments, NPCs, items, and events are procgen'd from the properties of those things. 
