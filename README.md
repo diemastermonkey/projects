@@ -45,6 +45,12 @@ A Raspberry Pi represents any detected Bluetooth device as an object or characte
 
 ![Middleverse Diagram](gad_rpi_middleverse_01.png)
 
+## The Polyglotica (Mixed)
+My personal opus to All Things Polyglot, Obfuscation, Misuse and Abuse of formats, standards, and expectations in general. Comprised of several components:
+* Polyglotica : The swiss army knife of polyglot manipulation and analysis. Detects, adjusts, extracts, manipulates polyglot files and code.
+* Polybiblica : The Polyglot Hacker's Bible. It collects the Great Works of the Masters with additional technical analysis, code snippets, real-world examples, a tools and techniques compendium, references, and a 'zoology' of Polyglotism.
+* Additional tools: Such as 'pgmap' which generates visual mappings of Polyglots.
+
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
 
