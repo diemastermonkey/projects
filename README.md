@@ -14,10 +14,10 @@ Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect
 Ultimately, I will wrap this and get it onto Android for the Play store.
 
 ## The Polyglotica (Mixed)
-My personal opus to All Things Polyglot, Obfuscation, Misuse and Abuse of formats, standards, and expectations in general. Comprised of several components:
-* Polyglotica : The swiss army knife of polyglot manipulation and analysis. Detects, adjusts, extracts, manipulates polyglot files and code.
-* Polybiblica : The Polyglot Hacker's Bible. It collects the Great Works of the Masters with additional technical analysis, code snippets, real-world examples, a tools and techniques compendium, references, and a 'zoology' of Polyglotism.
-* Additional tools: Such as 'pgmap' which generates visual mappings of Polyglots.
+My personal opus to All Things Polyglot, Obfuscation, Misuse and Abuse of formats, standards, and norms. This compendium of dark arts includes:
+* Polyglotica : Swiss army knife of polyglot manipulation and analysis. Detects, extracts, manipulates polyglot files and code.
+* Polybiblica : A Polyglot Hacker's Bible. Collects the Great Works of the Masters with technical analysis, code, real-world examples,tools and techniques, references, and a 'zoology' of Polyglotism.
+* Additional tools: Such as 'pgmap', which generates visual mappings of Polyglots.
 
 ## CTF Scene Zine (PDF)
 A simple digital zine devoted *only* to the CTF scene itself, at a meta level. Less about the writeups and more about the movers and shakers, competition results, events, trends in the scene, and gossip. Maybe a few writeups. And anonymous letters. 
