@@ -13,6 +13,12 @@ Discover and interact with NPCs, voicemail, control systems, dead-drops. Collect
 
 Ultimately, I will wrap this and get it onto Android for the Play store.
 
+## The Polyglotica (Mixed)
+My personal opus to All Things Polyglot, Obfuscation, Misuse and Abuse of formats, standards, and expectations in general. Comprised of several components:
+* Polyglotica : The swiss army knife of polyglot manipulation and analysis. Detects, adjusts, extracts, manipulates polyglot files and code.
+* Polybiblica : The Polyglot Hacker's Bible. It collects the Great Works of the Masters with additional technical analysis, code snippets, real-world examples, a tools and techniques compendium, references, and a 'zoology' of Polyglotism.
+* Additional tools: Such as 'pgmap' which generates visual mappings of Polyglots.
+
 ## CTF Scene Zine (PDF)
 A simple digital zine devoted *only* to the CTF scene itself, at a meta level. Less about the writeups and more about the movers and shakers, competition results, events, trends in the scene, and gossip. Maybe a few writeups. And anonymous letters. 
 
@@ -44,12 +50,6 @@ Also some Suicide-OS in there too, so that typos are fatal.
 A Raspberry Pi represents any detected Bluetooth device as an object or character in animated re-interpretations of reality, using procedural generation to produce consistent 'translations'.
 
 ![Middleverse Diagram](gad_rpi_middleverse_01.png)
-
-## The Polyglotica (Mixed)
-My personal opus to All Things Polyglot, Obfuscation, Misuse and Abuse of formats, standards, and expectations in general. Comprised of several components:
-* Polyglotica : The swiss army knife of polyglot manipulation and analysis. Detects, adjusts, extracts, manipulates polyglot files and code.
-* Polybiblica : The Polyglot Hacker's Bible. It collects the Great Works of the Masters with additional technical analysis, code snippets, real-world examples, a tools and techniques compendium, references, and a 'zoology' of Polyglotism.
-* Additional tools: Such as 'pgmap' which generates visual mappings of Polyglots.
 
 ## Tubehose (Javascript/YouTube API)
 I've always wanted to know "what's coming-in to YouTube right now, this moment?" and to see that in real-time: As if the world was pouring out of YouTube's firehose. This is actually pretty easily accomplished with the "YouTube Embedded Player" API, if a bit inelegantly. That actually might be the right approach. 
