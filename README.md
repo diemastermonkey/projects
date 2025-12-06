@@ -2,14 +2,6 @@
 The evolving, loosely-specified, seminal list of things I plan to make, am making, or will never make because they're ridiculous.
 In no order.
 
-Contents
-
-Example footnote[^1].
-
-
-[^1]: Example reference.
-
-
 ## [Dial-O-Tron](https://codepen.io/Unhacker/full/VwowxWL) (Javascript/Android?)
 This is already well underway! You can try it at [my CodePen](https://codepen.io/Unhacker/full/VwowxWL). 
 
